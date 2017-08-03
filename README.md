@@ -1,7 +1,6 @@
-absolute_dates
+absolute_datetime
 ===================
 
-[![Code Climate](https://codeclimate.com/github/suer/redmine_absolute_dates.png)](https://codeclimate.com/github/suer/redmine_absolute_dates)
 
 This Plugin support Japanese environment only!
 
