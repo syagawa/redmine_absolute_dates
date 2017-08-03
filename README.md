@@ -17,7 +17,7 @@ Redmineのチケットの作成日、更新日はデフォルトでは
 
 1. Redmineのインストールディレクトリ内の vender/plugins/ にて
 
-   $ git clone git://github.com/syagawa/redmine_absolute_datetime.gi
+   $ git clone git://github.com/syagawa/redmine_absolute_datetime.git
 
 2. Redmine の再起動
 
