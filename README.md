@@ -1,5 +1,6 @@
-absolute_datetime forked from suer/redmine_absolute_dates
+redmine_absolute_datetime
 ===================
+forked from suer/redmine_absolute_dates
 
 This Plugin support Japanese environment only!
 
