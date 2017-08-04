@@ -1,16 +1,13 @@
-absolute_datetime
+absolute_datetime forked from suer/redmine_absolute_dates
 ===================
-
 
 This Plugin support Japanese environment only!
 
 機能
 ---------------------
+このプラグインはこの日付を通常の日付(yyyy/MM/dd/hh:mm)で表示します。
 
-Redmineのチケットの作成日、更新日はデフォルトでは
-「今日」からの相対的な日時数で表示されます。(...日前など)
-
-このプラグインはこの日付を通常の日付(yyyy/MM/dd)で表示します。
+redmine_absolute_datesでは年月日までしか表示されませんでしたが、時分も表示するようにしました。
 
 インストール
 ---------------------
@@ -24,5 +21,4 @@ Redmineのチケットの作成日、更新日はデフォルトでは
 ライセンス
 ---------------------
 
-MITライセンスとします
-
+MI
